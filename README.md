@@ -10,11 +10,11 @@ La página web cuenta con campos para que el usuario pueda ingresar el texto que
 
 🔒 Diccionario de encriptacion
 🔑 Llave	✏️ Reemplazo
-e	enter
-i	imes
-a	ai
-o	ober
-u	ufat
+e ->	enter
+i ->	imes
+a ->	ai
+o	-> ober
+u -> ufat
 
 🔓 Diccionario de desencriptacion
 🔑 Llave	✏️ Reemplazo
