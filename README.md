@@ -1,11 +1,13 @@
 # encriptador-alura
 Encriptador | Desencriptador parte del programa ONE de Oracle + Alura 
-📝 Descripción
+
+Descripción
 Este proyecto es una aplicación que utiliza HTML, CSS, JavaScript para encriptar y desencriptar texto. La encriptación se realiza mediante la sustitución de ciertas letras por otras según un conjunto específico de reglas. La aplicación solo acepta letras minúsculas y no se permiten acentos ni caracteres especiales.
 
 La página web cuenta con campos para que el usuario pueda ingresar el texto que desea encriptar o desencriptar y seleccionar la opción correspondiente. El resultado de la operación se muestra en la pantalla y existe la opción de copiar el texto encriptado o desencriptado al portapapeles mediante un botón de "copiar".
 
 📒 Diccionarios
+
 🔒 Diccionario de encriptacion
 🔑 Llave	✏️ Reemplazo
 e	enter
@@ -13,6 +15,7 @@ i	imes
 a	ai
 o	ober
 u	ufat
+
 🔓 Diccionario de desencriptacion
 🔑 Llave	✏️ Reemplazo
 enter	e
@@ -20,7 +23,9 @@ imes	i
 ai	a
 ober	o
 ufat	u
+
 📑 Requisitos
+
 ✅ Debe funcionar solo con letras minúsculas
 ✅ No deben ser utilizados letras con acentos ni caracteres especiales
 ✅ Debe ser posible convertir una palabra para la versión encriptada también devolver una palabra encriptada para su versión original. (Ejemplos: "gato" => "gaitober" | "gaitober" => "gato")
