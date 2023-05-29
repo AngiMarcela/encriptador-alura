@@ -18,14 +18,14 @@ u -> ufat
 
 🔓 Diccionario de desencriptacion
 🔑 Llave	✏️ Reemplazo
-enter	e
-imes	i
-ai	a
-ober	o
-ufat	u
+enter -> e
+imes -> i
+ai	-> a
+ober	-> o
+ufat	-> u
 
-📑 Requisitos
 
+Requisitos
 ✅ Debe funcionar solo con letras minúsculas
 ✅ No deben ser utilizados letras con acentos ni caracteres especiales
 ✅ Debe ser posible convertir una palabra para la versión encriptada también devolver una palabra encriptada para su versión original. (Ejemplos: "gato" => "gaitober" | "gaitober" => "gato")
